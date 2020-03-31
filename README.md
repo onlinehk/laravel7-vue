@@ -56,7 +56,3 @@ For other providers you may need to set the appropriate keys in `config/services
 ## Email Verification
 
 To enable email verification make sure that your `App\User` model implements the `Illuminate\Contracts\Auth\MustVerifyEmail` contract.
-
-## Changelog
-
-Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recently.
