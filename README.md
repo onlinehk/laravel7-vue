@@ -35,6 +35,9 @@ npm run watch
 
 # serve with hot reloading
 npm run hot
+
+# create server & hot reloading
+npm run myserver
 ```
 
 #### Production
